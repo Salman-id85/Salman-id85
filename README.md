@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman-id85&theme=gotham)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salman-id85&theme=gotham)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salman-id85&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salman-id85&theme=gotham&utcOffset=8)
