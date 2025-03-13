@@ -28,9 +28,9 @@ I'm **Salman S**, a passionate Computer Science and Engineering graduate from C.
 - My experiences during my internship at The Sparks Foundation and the projects I worked on.
 
 ## 📫 How to reach me: ...
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: [your.email@example.com](mailto:salmansalmanbasha9@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/salman936/)
+  
 
 ## 😄 Pronouns: ...
 - He/Him
