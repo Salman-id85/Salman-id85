@@ -52,7 +52,7 @@ I'm **Salman S**, a passionate Computer Science and Engineering graduate from C.
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salman-id85&theme=gotham)
 
 ### Languages Used
-![Languages Used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman-id85&theme=gotham)### GitHub Stats![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salman-id85&theme=gotham)
+![Languages Used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman-id85&theme=gotham)[GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salman-id85&theme=gotham)
 
 ### Productive Time
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salman-id85&theme=gotham&utcOffset=8)
