@@ -66,3 +66,4 @@ I'm **Salman S**, a passionate Computer Science and Engineering graduate from C.
 - **[AI-Powered Chatbot](https://github.com/yourusername/ai-chatbot)**: A chatbot that engages users and answers queries using NLP.
 
 Feel free to explore my repositories, check out my projects, and connect with me! I'm always open to new ideas and collaborations.
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salman-id85&theme=gotham)
