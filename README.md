@@ -28,15 +28,19 @@ I'm **Salman S**, a passionate Computer Science and Engineering graduate from C.
 - My experiences during my internship at The Sparks Foundation and the projects I worked on.
 
 ## 📫 How to reach me: ...
-- Email: [your.email@example.com](mailto:salmansalmanbasha9@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/salman936/)
+- Email: [salman.gamil.com](mailto:salmansalmanbasha9@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/salman936/)
   
 
 ## 😄 Pronouns: ...
 - He/Him
+- I believe in fostering an inclusive and respectful environment where everyone feels valued and heard.
+- Using correct pronouns is a small but meaningful step toward building a culture of diversity and inclusion.
+
 
 ## ⚡ Fun fact: ...
-- I once processed over 5,000 datasets in a single project, improving model accuracy by 15% and reducing processing time by 30%!
+- I once processed over 5,000 datasets in a single project, leveraging advanced data preprocessing and machine learning techniques. This effort resulted in a 15% improvement in model accuracy and a 30% reduction in processing time.
+-  significantly enhancing the efficiency and reliability of the system. This experience taught me the importance of optimizing workflows and thinking critically about scalability in data-driven projects.
 
 ## 🌟 My Skills
 - **Programming Languages**: Python, Java, C/C++, SQL, JavaScript
