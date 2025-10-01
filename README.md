@@ -39,15 +39,17 @@
 ---
 
 ## 🚀 Projects  
-✨ [Social Media Sentiment Analysis](https://github.com/Salman-id85/social-media-sentiment-analysis) – NLP to analyze opinions in tweets & posts  
-✨ [Credit Card Fraud Detection](https://github.com/Salman-id85/credit-card-fraud-detection) – Detect fraudulent transactions using ML  
-✨ [AI-Powered Chatbot](https://github.com/Salman-id85/ai-chatbot) – Real-time chatbot using NLP  
+✨ [AI-Generated Dreams from Neurodata](https://github.com/Salman-id85/AI-Generated-Dreams-from-Neurodata) – AI-powered neurodata visualization & dream report system ([Publication](https://zenodo.org/records/17243008))  
+✨ [Social Comment Authenticity Analyzer](https://github.com/Salman-id85/Social-Comment-Authenticity-Analyzer) – Detect authenticity in social media comments ([Publication](https://zenodo.org/records/17243151))  
+✨ [AI-Based Salary Prediction System for HR Analytics](https://github.com/Salman-id85/AI-Based-Salary-Prediction-System-for-HR-Analytics) – Predict employee salaries using ML & HR data  
+✨ [AI-Powered Vehicle Tracking and Speed Estimation](https://github.com/Salman-id85/AI-Powered-Vehicle-Tracking-and-Speed-Estimation) – Real-time vehicle monitoring & speed analysis ([Publication](https://zenodo.org/records/17240852))  
 
 ---
 
 ## 📊 GitHub Stats  
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salman-id85&theme=github_dark)  
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman-id85&theme=github_dark)  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salman-id85&theme=github_dark)  
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman-id85&theme=github_dark)  
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salman-id85&theme=github_dark)  
 
 ---
 
