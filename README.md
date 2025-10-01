@@ -47,8 +47,7 @@
 
 ## 📊 GitHub Stats  
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salman-id85&theme=github_dark)  
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman-id85&theme=github_dark)  
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salman-id85&theme=github_dark)  
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman-id85&theme=github_dark)  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salman-id85&theme=github_dark)  
 
 ---
 
