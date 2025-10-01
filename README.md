@@ -1,54 +1,89 @@
-# Hi there 👋
+# Hi there, I'm Salman S  
 
-I'm **Salman S**, a passionate Computer Science and Engineering graduate from C. Abdul Hakeem College of Engineering and Technology, specializing in data science, machine learning, and full-stack development. Welcome to my GitHub profile!
+Computer Science & Engineering Graduate | AI/ML Engineer | Full-Stack & UI/UX Enthusiast  
 
-## 🔭 I’m currently working on ...
-- **Social Media Sentiment Analysis**: Developing a system that processes and analyzes sentiments from social media data using NLP techniques.
-- **AI-Powered Chatbot**: Building a chatbot integrated with machine learning to handle customer inquiries and improve engagement.
+I am passionate about building AI-powered solutions, designing scalable applications, and creating impactful user experiences. Welcome to my GitHub profile.  
 
-## 🌱 I’m currently learning ...
-- Advanced concepts in **Deep Learning** and **Neural Networks**.
-- **Cloud Computing** platforms like AWS and Azure for deploying machine learning models.
-- **DevOps** practices to streamline development and deployment processes.
+---
 
-## 👯 I’m looking to collaborate on ...
-- Open-source projects related to **data analytics**, **machine learning**, and **AI**.
-- Innovative applications of technology in sectors like healthcare, finance, and education.
-- Projects that focus on **sustainability** and **social impact**.
+## Current Work
+- Social Media Sentiment Analysis – NLP-based model to analyze public opinion from posts and tweets.  
+- AI-Powered Chatbot – Machine learning chatbot for customer interaction and engagement.  
+- Credit Card Fraud Detection – ML classification system to reduce fraudulent transactions.  
 
+---
 
+## Currently Learning
+- Advanced Deep Learning and Neural Networks (CNNs, RNNs, Transformers).  
+- Cloud Computing (AWS, Azure) for ML model deployment.  
+- DevOps practices (CI/CD, Docker, GitHub Actions).  
 
+---
 
-## 📫 How to reach me: ...
-- Email: [salman.gamil.com](mailto:salmansalmanbasha9@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/salman936/)
-  
+## Internship & Work Experience
+- AI/ML Intern – AICTE – Edunet Foundation (IBM SkillsBuild)  
+- Data Science Intern – Unified Mentor Pvt. Ltd.  
+- UI/UX Consultant – Brain Quest Consultancy & Training  
+- Data Analyst Intern – The Sparks Foundation  
+- Web Development Intern – Prodigy InfoTech  
 
-tance of optimizing workflows and thinking critically about scalability in data-driven projects.
+---
 
-## 🌟 My Skills
-- **Programming Languages**: Python, Java, C/C++, SQL, JavaScript
-- **Frameworks & Tools**: TensorFlow, Keras, Scikit-learn, React, Flask, Tableau, Power BI
-- **Machine Learning Techniques**: Regression, Classification, Clustering, NLP
-- **Developer Tools**: VS Code, PyCharm, Jupyter Notebook
+## Skills & Tools
+- Languages: Python, Java, C/C++, JavaScript, SQL  
+- AI/ML Frameworks: TensorFlow, PyTorch, Scikit-learn, Keras  
+- Web & UI/UX: React, Flask, Tailwind, Figma, Wix Studio  
+- Data & Visualization: Power BI, Tableau, Pandas, NumPy  
+- Tools: Git, Docker, Jupyter, VS Code, PyCharm  
 
-## 📈 GitHub Stats
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salman-id85&theme=gotham)
+---
 
-### Languages Used
-![Languages Used](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman-id85&theme=gotham)
+## Publications
+- **Brain Data Dream Generator** – An AI-Powered Multimodal Neurodata Visualization and Report System  
+- **A Heuristic-Based Tool for Authenticity** – Analysis of Social Media Comments  
 
-### GitHub Stats
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salman-id85&theme=gotham)
+---
 
+## Certifications
+- Guvi Certified Neural Network Deep Learning  
+- CISCO Certified Data Analytics Essentials  
+- Infosys Certified DevOps  
+- IBM Certified Machine Learning with Python  
 
-### Productive Time
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salman-id85&theme=gotham&utcOffset=8)
+---
 
-## 🛠️ Projects
-- **[Social Media Sentiment Analysis](https://github.com/yourusername/social-media-sentiment-analysis)**: A project that analyzes sentiments from social media posts.
-- **[Credit Card Fraud Detection](https://github.com/yourusername/credit-card-fraud-detection)**: A model that detects fraudulent transactions using machine learning techniques.
-- **[AI-Powered Chatbot](https://github.com/yourusername/ai-chatbot)**: A chatbot that engages users and answers queries using NLP.
+## Honors & Awards
+- First Prize – Debugging & Error Fixing Competition  
+- Advanced Diploma in Computer Programming  
 
-Feel free to explore my repositories, check out my projects, and connect with me! I'm always open to new ideas and collaborations.
+---
 
+## GitHub Stats
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salman-id85&theme=gotham)  
+
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman-id85&theme=gotham)  
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salman-id85&theme=gotham)  
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salman-id85&theme=gotham&utcOffset=8)  
+
+---
+
+## Featured Projects
+- [Social Media Sentiment Analysis](https://github.com/Salman-id85/social-media-sentiment-analysis)  
+  NLP model to classify sentiment in tweets and posts.  
+
+- [Credit Card Fraud Detection](https://github.com/Salman-id85/credit-card-fraud-detection)  
+  Machine learning system to detect fraudulent transactions.  
+
+- [AI-Powered Chatbot](https://github.com/Salman-id85/ai-chatbot)  
+  Chatbot integrated with NLP to answer queries in real-time.  
+
+---
+
+## Contact
+- LinkedIn: [linkedin.com/in/salmans7](https://www.linkedin.com/in/salmans7)  
+- Portfolio: [salmanportfolioweb.com](https://www.salmanportfolioweb.com)  
+- Email: s.salman93615@gmail.com  
+
+---
+
+Always curious, always learning — I focus on building data-driven, AI-powered solutions that make a real impact.  
