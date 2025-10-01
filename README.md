@@ -55,7 +55,7 @@
 ## 🌐 Connect with Me  
 📫 Email: **ssalmangex@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/salmans7](https://www.linkedin.com/in/salmans7)  
-🌍 Portfolio: [salmanportfolioweb.com]([https://www.salmanportfolioweb.com](https://iuqjewvggqs90xqcslqxaa.on.drv.tw/www.salmanportfolioweb.com/salu.html))  
+🌍 Portfolio: [salmanportfolioweb.com](https://iuqjewvggqs90xqcslqxaa.on.drv.tw/www.salmanportfolioweb.com/salu.html)  
 
 ---
 
